@@ -3,16 +3,16 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>&lt;script type="text/x-handlebars" ${1:data-template-name="${2:template_name}" }charset="utf-8"&gt;
+	<string>{{#if ${1:App.property}}}
 	$0
-&lt;/script&gt;</string>
+{{/if}}</string>
 	<key>name</key>
-	<string>Script Handlebars Template</string>
+	<string>if</string>
 	<key>scope</key>
-	<string>text.html</string>
+	<string>source.js, text.html</string>
 	<key>tabTrigger</key>
-	<string>sht</string>
+	<string>#if</string>
 	<key>uuid</key>
-	<string>C1426A33-D4DF-4821-93A5-34ED0930A09B</string>
+	<string>7D1B08D0-2EE1-4B1E-8CD0-C7BA4836E819</string>
 </dict>
 </plist>
