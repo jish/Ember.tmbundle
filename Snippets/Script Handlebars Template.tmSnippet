@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>&lt;script type="text/x-handlebars" ${1:data-template-name="${2:template_name}" }charset="utf-8"&gt;
+	$0
+&lt;/script&gt;</string>
+	<key>name</key>
+	<string>Script Handlebars Template</string>
+	<key>scope</key>
+	<string>source.js, text.html</string>
+	<key>tabTrigger</key>
+	<string>sht</string>
+	<key>uuid</key>
+	<string>C1426A33-D4DF-4821-93A5-34ED0930A09B</string>
+</dict>
+</plist>
