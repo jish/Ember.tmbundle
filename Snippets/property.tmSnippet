@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>${1:property}: function(${2:args}) {
+	$0
+}.property('${3:dependencies}')${4:.cacheable()}${10:,}</string>
+	<key>name</key>
+	<string>property</string>
+	<key>scope</key>
+	<string>text.html, source.js</string>
+	<key>tabTrigger</key>
+	<string>:p</string>
+	<key>uuid</key>
+	<string>77C6E2C0-9D8C-4894-93A3-79E00D69B516</string>
+</dict>
+</plist>
