@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>${1:foo}DidChange: function() {
+	$0
+}.observes('${1:foo}')${10:,}</string>
+	<key>name</key>
+	<string>observer</string>
+	<key>scope</key>
+	<string>text.html, source.js</string>
+	<key>tabTrigger</key>
+	<string>:o</string>
+	<key>uuid</key>
+	<string>E4245ED0-723F-47E5-9A86-9D9426A5C404</string>
+</dict>
+</plist>
