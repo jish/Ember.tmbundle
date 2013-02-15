@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>${1:${2:MyView} = }Em.View.extend({
+  ${3::p}${0}
+});</string>
+	<key>name</key>
+	<string>Em.View</string>
+	<key>scope</key>
+	<string>source.js, text.html</string>
+	<key>tabTrigger</key>
+	<string>Emv</string>
+	<key>uuid</key>
+	<string>DB69AFA3-D598-4482-97F5-5514D9DF7977</string>
+</dict>
+</plist>
