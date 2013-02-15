@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>${1:property}: function(${2:args}) {
+	<string>${1:property}: function(${2:key, value}) {
 	$0
 }.property('${3:dependencies}')${4:.cacheable()}${10:,}</string>
 	<key>name</key>
