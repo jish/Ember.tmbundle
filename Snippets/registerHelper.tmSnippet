@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>Handlebars.registerHelper('${1:name}', function(${2:parameter}) {
+  return ${3:new Handlebars.SafeString(${4:})};
+});
+$0</string>
+	<key>name</key>
+	<string>Handlebars registerHelper</string>
+	<key>scope</key>
+	<string>source.js,text.html</string>
+	<key>tabTrigger</key>
+	<string>helper</string>
+	<key>uuid</key>
+	<string>4812666E-6C7C-4968-A249-95041B730013</string>
+</dict>
+</plist>
