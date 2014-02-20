@@ -4,7 +4,7 @@
 <dict>
 	<key>content</key>
 	<string>{{#each ${1:foo} in content}}
-  $0
+	$0
 {{/each}}</string>
 	<key>name</key>
 	<string>each</string>

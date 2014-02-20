@@ -4,7 +4,7 @@
 <dict>
 	<key>content</key>
 	<string>{{#link-to '${1:foo}' ${2:bar}}}
-  $0
+	$0
 {{/link-to}}</string>
 	<key>name</key>
 	<string>link-to</string>

@@ -4,7 +4,7 @@
 <dict>
 	<key>content</key>
 	<string>${1:${2:MyView} = }Em.View.extend({
-  ${3::p}${0}
+	${3::p}${0}
 });</string>
 	<key>name</key>
 	<string>Em.View</string>
