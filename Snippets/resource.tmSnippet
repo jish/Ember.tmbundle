@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>this.resource('${1:resource}', { path: '/:${2:$1_id}'} );
+$0</string>
+	<key>name</key>
+	<string>resource</string>
+	<key>scope</key>
+	<string>source.js</string>
+	<key>tabTrigger</key>
+	<string>resource</string>
+	<key>uuid</key>
+	<string>96F2569D-DC8A-454F-A267-F035BA4410F6</string>
+</dict>
+</plist>
