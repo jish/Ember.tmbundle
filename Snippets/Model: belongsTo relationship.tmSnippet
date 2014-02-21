@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>${1:name}: DS.belongsTo(${2:'${3:type}'}${4:,{ async: ${5:true}})$0
+</string>
+	<key>name</key>
+	<string>Model: belongsTo relationship</string>
+	<key>scope</key>
+	<string>source.js</string>
+	<key>tabTrigger</key>
+	<string>bt</string>
+	<key>uuid</key>
+	<string>34B16C6B-02F9-4E16-B978-E5BB8CFC00BE</string>
+</dict>
+</plist>
