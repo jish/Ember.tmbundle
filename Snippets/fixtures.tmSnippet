@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>App.${1:Model}.Fixtures = [
+	{
+		$0
+	}
+];</string>
+	<key>name</key>
+	<string>fixtures</string>
+	<key>scope</key>
+	<string>text.html, source.js</string>
+	<key>tabTrigger</key>
+	<string>fix</string>
+	<key>uuid</key>
+	<string>DC24AB77-1450-4B7E-A5A2-952FAC318ACA</string>
+</dict>
+</plist>
