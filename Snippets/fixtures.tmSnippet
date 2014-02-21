@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>App.${1:Model}.Fixtures = [
+	<string>App.${1:Model}.FIXTURES = [
 	{
 		$0
 	}
