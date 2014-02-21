@@ -9,7 +9,7 @@
 	}
 ];</string>
 	<key>name</key>
-	<string>fixtures</string>
+	<string>Model: Add fixtures</string>
 	<key>scope</key>
 	<string>text.html, source.js</string>
 	<key>tabTrigger</key>
