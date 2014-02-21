@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>${1:name}: DS.hasMany(${2:'${3:type}'}${4:,{ async: ${5:true}}})$0
+</string>
+	<key>name</key>
+	<string>Model: hasMany relationship</string>
+	<key>scope</key>
+	<string>source.js</string>
+	<key>tabTrigger</key>
+	<string>hm</string>
+	<key>uuid</key>
+	<string>C8BD1CA6-2A30-49ED-83BF-AE6F00E1379D</string>
+</dict>
+</plist>
