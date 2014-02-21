@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>${1:name}: DS.belongsTo(${2:'${3:type}'}${4:,{ async: ${5:true}}})$0
+	<string>${1:name}: DS.belongsTo(${2:'${3:type}'}${4:,{ async: ${5:true}})$0
 </string>
 	<key>name</key>
 	<string>Model: belongsTo relationship</string>
